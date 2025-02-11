@@ -13,8 +13,8 @@ from pystyle import Colors, Colorate
 
 from kaijo import Kaijo
 
-__CHANNEL_USERNAME__ = "hahahah"
-__GROUP_USERNAME__   = "hahahahah"
+__CHANNEL_USERNAME__ = "kaijo cpm"
+__GROUP_USERNAME__   = "kaijo cpm"
 
 def signal_handler(sig, frame):
     print("\n Bye Bye...")
